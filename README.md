@@ -6,15 +6,15 @@ All sound playback is mixed in background threads. When you begin to play a Soun
 The mixer also has a special streaming channel. This is for music playback and is accessed through the pygame.mixer.musicpygame  module for controlling streamed audio module.
 The mixer module must be initialized like other pygame modules, but it has some extra conditions. The pygame.mixer.init() function takes several optional arguments to control the playback rate and sample size.
 
-#TKINTER
+__TKINTER__
 
 The tkinter package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, as well as on Windows systems. (Tk itself is not part of Python; it is maintained at ActiveState.)
 
 For more info about these modules go to:
 
-	Tkinter- https://tkdocs.com/shipman/
+	__Tkinter__- https://tkdocs.com/shipman/
 
-	Mixer - https://www.pygame.org/docs/ref/mixer.html
+	__Mixer__ - https://www.pygame.org/docs/ref/mixer.html
 
 
 
